@@ -776,6 +776,10 @@ section,
   opacity: 0.7; /* Ajusta la opacidad si quieres un efecto de transparencia */
 }
 
+.Youtube-Video {
+  margin-top: 20px;
+}
+
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
